@@ -1,5 +1,5 @@
 {
-  "name": "aeTimeline",
+  "name": "timeline",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -47,5 +47,5 @@
   "devDependencies": {
     "@capacitor/cli": "2.4.3"
   },
-  "description": "An Ionic project"
+  "description": "an adaept project"
 }
