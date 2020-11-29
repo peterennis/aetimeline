@@ -1,0 +1,7 @@
+{
+  "name": "aeTimeline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
