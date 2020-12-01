@@ -523,7 +523,7 @@
 "1975","Feb 8","1,800 couple Holy Marriage Blessing"
 "1975","Feb 12","Announcement to send missionaries to 95 nations, Tokyo"
 "1975","Feb 13","Day of Hope Rally in Japan, Budokan Martial Arts Auditorium, Tokyo"
-"1975","May 2","(1.20 LC) Birth ofKwon-jin Moon (son)"
+"1975","May 2","(1.20 LC) Birth of Kwon-jin Moon (son)"
 "1975","Apr 1","Day of Hope rallies begin in Korea"
 "1975","Apr 1"," Busan: Civic Center"
 "1975","Apr 6"," Daegu: Gyeongbuk Arena"
