@@ -484,7 +484,7 @@
 "1974","Mar 27-28"," Albuquerque, NM"
 "1974","Mar 29-30"," Phoenix, AZ"
 "1974","Mar 31-Apr 1"," Las Vegas, NV"
-"1974","Apr 2-3"," Laran1ie, WY"
+"1974","Apr 2-3"," Laramie, WY"
 "1974","Apr 4-5"," Sioux Falls, SD"
 "1974","Apr 6-7"," Fargo, ND"
 "1974","Apr 8-9"," Missoula, MT"
