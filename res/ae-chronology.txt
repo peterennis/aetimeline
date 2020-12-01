@@ -706,7 +706,7 @@
 "1985","Dec 11","True Father returns to Korea after Danbury"
 "1985","Dec 12","Luncheon for True Parents attended by former heads of state and prime ministers"
 "1985","Dec 16","Rally for Global Security and Victory Over Communism, Jamsil Indoor Stadium, Seoul"
-"1985","Dec 18","Inaugural edition of The World &amp; I magazine, Washington, DC"
+"1985","Dec 18","Inaugural edition of The World & I magazine, Washington, DC"
 "1985","Dec 27","Seonghwa Theological Seminary, Cheonan, is approved by the Korean government as a four-year college with 12 majors"
 "1986","Mar 14-20","Seminars for Professors"
 "1986","Mar 14"," Daejeon: Yuseong Tourist Hotel"
