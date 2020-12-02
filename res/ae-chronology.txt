@@ -1562,7 +1562,7 @@
 "1999","Apr 6"," Poughkeepsie, NY"
 "1999","Apr 7"," Bridgeport, CT"
 "1999","Apr 8"," Baltimore, MD"
-"1999","Apr 9","Detroit, MI"
+"1999","Apr 9"," Detroit, MI"
 "1999","Apr 10"," Boston, MA"
 "1999","Apr 11"," Secaucus, NJ"
 "1999","Mar 21","Satan surrenders to True Parents"
