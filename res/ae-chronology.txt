@@ -2338,7 +2338,7 @@
 "2010","Apr 9"," Honolulu: Waikiki Beach Marriott Resort and Spa"
 "2010","Mar 21","Angelica Selle inaugurated as President of Women's Federation for World Peace (WFWP) USA"
 "2010","Apr 21-26","Commemoration of the sailors who perished at the sinking of the ship Cheonan"
-"2010","Apr 21"," Hon.am: Gwangju, Kim Dae-jung Convention Center"
+"2010","Apr 21"," Honam: Gwangju, Kim Dae-jung Convention Center"
 "2010","Apr 22"," Youngnam: Daegu, Inter-Burgo Hotel"
 "2010","Apr 23"," Seoul: Seoul, Central City"
 "2010","Apr 26"," Chungcheong: Cheongju, Ramada Plaza Hotel"
