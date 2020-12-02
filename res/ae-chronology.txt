@@ -1772,7 +1772,7 @@
 "2001","May 27","Clergy Interfaith Marriage Blessing Ceremony"
 "2001","Jun 11","Unification Theological Seminary (UTS) chapel cross struck by lightning"
 "2001","Jun 21","UTS awards honorary doctorates to True Parents"
-"2001","Jul 3","Assemblies in Korea tor the Settlement of God's Fatherland"
+"2001","Jul 3","Assemblies in Korea for the Settlement of God's Fatherland"
 "2001","Jul 3","Seoul: True Father speaks at the Lotte Hotel"
 "2001","n.d. Jul 3","Busan: True Mother speaks at the Lotte Hotel"
 "2001","Jul 4","Daegu: True Father speaks at the Inter-Burgo Hotel,"
