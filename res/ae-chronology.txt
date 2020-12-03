@@ -288,7 +288,7 @@
 "1965","Dec 22"," Suwon"
 "1965","Dec 31"," Establishes four holy grounds in Seoul: Gujin Peak, Mt. Inwang, Heukseok-dong and Taeneung royal tombs"
 "1966","Jan 1","Establishes holy grounds at Namsan, Mt. Dobong and Cheongpa-dong, completing the establishment of 120 holy grounds"
-"1966","Jan 5","Publication of Wolli Kangnon (Exposition of the Divine Principle)"
+"1966","Jan 5","Publication of Wolli Kangron (Exposition of the Divine Principle)"
 "1966","Jan 10","Establishment of the Collegiate Association for the Research of Principles (CARP)"
 "1966","Mar 12","First National Messiah Workshop"
 "1966","Apr 15","Dedication of the Tong 11 Industries factory, Sutaek-ri, Gyeonggi Province"
